@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 # -*- coding: utf8 -*-
 
 # @name   : Xeexe - FUD RAT REVERSE SHELL  
@@ -59,7 +59,7 @@ def print_success(message):
 
 def print_error(message):
 	"""Indicate failure"""
-	return _print_base(message, "!", colour_codes["MAGENTA"])
+	return _print_base(message, "!", colour_codes["MAGENTA"]) 
 
 
 def random_string(length=10):
