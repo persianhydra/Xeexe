@@ -51,6 +51,29 @@ chmod +x Xeexe.py && python3 Xeexe.py
 - Wine
 - Mingw-w64 Compiler
 
+
+## Thanks for Supporting me 
+ ```
+https://kalilinuxtutorials.com/xeexe/
+https://pentesttools.net/xeexe-undetectable-and-xor-encrypting-with-custom-key-fud-rat/
+https://modernnetsec.io/xeexe-undetectable-and-xor-encrypting-with-custom-key-fud-metasploit-rat/
+https://www.kitploit.com/2020/06/xeexe-undetectable-and-xor-encrypting.html
+https://www.newsbreak.com/news/0PVjs0GJ/xeexe-undetectable-xor-encrypting-with-custom-key-fud-metasploit-rat
+https://iransec.net/forums/topic/362-xeexe/
+https://www.themodernlogicgroup.com/tag/xeexe/
+https://reportcybercrime.com/undetectable-and-xor-encrypting-with-custom-key-fud-metasploit-rat/
+https://www.malwaredevil.com/xeexe-undetectable-xor-encrypting-with-custom-key-fud-metasploit-rat/?amp
+https://www.kengilmour.com/xeexe-undetectable-and-xor-encrypting-with-custom-key-fud-metasploit-rat/
+https://www.reddit.com/user/esgeeks/comments/hks6b9/xeexe_undetectable_reverse_shell_metasploit_rat/
+https://www.blueteam.news/2020/07/xeexe-undetectable-and-xor-encrypting.html
+https://eshttps://raidforums.com/Thread-XEEXE-Undetectable-Reverse-shell-Xor-encrypting-with-custom-KEY-FUD-Metasploit-Rageeks.com/xeexe-fud-reverse-shell-metasploit/
+http://www.finbit.org/persianhydra/Xeexe/stargazers/eAHLKCkpKLbS10_PLMkoTdJLzs_VL0gtKs5MzMuoTClK1I9ITa1I1S8uSSxKT6wCSgAAvvUSmA
+https://esgeeks.com/xeexe-fud-reverse-shell-metasploit/
+https://tsecurity.de/de/1162748/IT-Security/Cyber-Security-Nachrichten/Xeexe-Undetectable-And-XOR-Encrypting-With-Custom-KEY-FUD-Metasploit-RAT/
+https://hacker-gadgets.com/blog/tag/xeexe/
+https://esgeeks.com/xeexe-fud-reverse-shell-metasploit/
+ ```
+
 # Screenshot
 <a href="https://ibb.co/fVRsCgJ"><img src="https://i.ibb.co/ymTr892/xe3.jpg" alt="xe3" border="0"></a><br />
 
