@@ -30,7 +30,7 @@
 
 ## Thanks for Supporting me 
 ```
-(TOP 50 Rat Open Source)
+(TOP 50 Open Source Rat)
 https://awesomeopensource.com/projects/rat
 https://kalilinuxtutorials.com/xeexe/
 https://pentesttools.net/xeexe-undetectable-and-xor-encrypting-with-custom-key-fud-rat/
