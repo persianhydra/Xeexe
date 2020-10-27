@@ -29,7 +29,9 @@
 - bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,...
 
 ## Thanks for Supporting me 
- ```
+```
+(TOP 50 Rat Open Source)
+https://awesomeopensource.com/projects/rat
 https://kalilinuxtutorials.com/xeexe/
 https://pentesttools.net/xeexe-undetectable-and-xor-encrypting-with-custom-key-fud-rat/
 https://modernnetsec.io/xeexe-undetectable-and-xor-encrypting-with-custom-key-fud-metasploit-rat/
