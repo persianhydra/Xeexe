@@ -17,11 +17,11 @@
 
 **Xeexe** is an FUD exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Windows **Xeexe** Provides An Easy way to create Backdoors and Payload which can bypass TOP antivirus.
 
-bypass BitDefender
-bypass NOD32
-bypass Malwarebytes
-bypass AVG
-bypass Avast
+bypass BitDefender.
+bypass NOD32.
+bypass Malwarebytes.
+bypass AVG.
+bypass Avast.
 
  ## Features !
 - python3 and Ngrok support.
