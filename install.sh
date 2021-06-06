@@ -1,6 +1,6 @@
 #!/bin/bash
 
-arch=$(head -n1 /etc/issue | cut -d' ' -f1)
+arch=$(head -n1 /etc/issue | cut -d' ' -f1) 
 
 if [ -e /usr/bin/msfvenom ]; then
     printf "[] Msfvenom is already installed.\n"
